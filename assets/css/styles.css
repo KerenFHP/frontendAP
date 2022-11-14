@@ -1,0 +1,46 @@
+/*etiqueta html vai o nome diretamente*/
+/*o que é classe vai com ponto antes ( . )*/
+/*o que é ID vai com hashtag antes (#) */
+
+body{
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.banner1{
+
+    padding: 20px;
+    text-align: center;
+    background: palevioletred;
+    color: white;
+    font-size: 30px;
+}
+
+.banner{
+    padding: 40px;
+}
+#redessociales{
+    text-align: left;
+    margin: auto;
+}
+
+#sobremim{
+    text-align: center;
+    margin: auto;
+
+}
+#description{
+    text-align: center;
+    margin:auto;
+}
+
+ul li{list-style-type: none;}
+
+.imgPerfil{
+    border-radius: 100%;
+
+}
+.nomedeperfil{
+    font-size: 2rem;
+}
